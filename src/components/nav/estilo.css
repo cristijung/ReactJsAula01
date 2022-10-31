@@ -1,0 +1,10 @@
+
+.nav-header {
+    background-color: #323f5a;
+    min-height: 1vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(6px + 2vmin);
+    color:#fff;
+}
